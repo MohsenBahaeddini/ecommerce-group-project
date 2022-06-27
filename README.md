@@ -1,3 +1,8 @@
+# Dressr | E-Commerce Group Project | Mohsen Bahaeddini
+> __Dressr__ is an e-commerce web-app which was developed by a team of three junior developers as the group project of Concordia Full-Stack Web Dev Bootcamps. Users are able to search among products, filter their searches by the manufacturer, modify their cart items and finally complete their purchases.
+
+
+
 # Wearables E-Commerce Project
 
 You will make use of _everything_ that you have learned thus far in the bootcamp to build an e-commerce app that will showcase all of the provided _wearables_ items.
