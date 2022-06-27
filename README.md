@@ -5,6 +5,12 @@
 - __Client:__ `React.js`, `Styled-Components`, `CSS`
 - __Server:__ `Node.js`, `Express.js`
 
+## :large_orange_diamond: Web-App Pages
+
+- ### Home Page
+> On the home page user can see the all products and whethear they are available or out of stock, add items to their cards and find the products by the companies.
+![HomePage](https://user-images.githubusercontent.com/91036770/176026378-a6f225dc-d9b0-4636-a9e0-0cce417479c4.jpg)
+
 # Wearables E-Commerce Project
 
 You will make use of _everything_ that you have learned thus far in the bootcamp to build an e-commerce app that will showcase all of the provided _wearables_ items.
