@@ -1,5 +1,5 @@
 # Dressr | E-Commerce Group Project | Mohsen Bahaeddini
-> __Dressr__ is an e-commerce web-app which was developed by a team of three junior developers as the group project of Concordia Full-Stack Web Dev Bootcamps. Users are able to search among products, filter their searches by the manufacturer, modify their cart items and finally complete their purchases.
+> __Dressr__ is an e-commerce web app that was developed by a team of three junior developers as the group project of Concordia Full-Stack Web Dev Bootcamps. Users are able to search among products, filter their searches by manufacturer, modify their cart items and finally complete their orders.
 
 ## :hammer_and_wrench: Tech Stack
 - __Client:__ `React.js`, `Styled-Components`, `CSS`
