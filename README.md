@@ -8,19 +8,23 @@
 ## :large_orange_diamond: Web-App Pages
 
 - ### Home Page
-> On the home page user can see the all products and whethear they are available or out of stock, add items to their cards and find the products by the companies.
+> On the home page, customer can see the all products and whethear they are available or out of stock, add items to their cards and find the products by the companies.
 ![HomePage](https://user-images.githubusercontent.com/91036770/176026378-a6f225dc-d9b0-4636-a9e0-0cce417479c4.jpg)
 
 - ### Item Details
-> On the item details page, user can see the details of the product, number in stocks and add the item to the cart.
+> On the item details page, customer can see the details of the product, number in stocks and add the item to the cart.
 ![details page](https://user-images.githubusercontent.com/91036770/176028704-fb18d7b9-9bd9-45d8-9f0e-7269d27a7d96.jpg)
 
 - ### Cart
-> On the cart page, user can modify the items in cart, enter their cart info and shipping address and complete the order.
+> On the cart page, customer can modify the items in cart, enter their cart info and shipping address and complete the order.
 ![cart](https://user-images.githubusercontent.com/91036770/176030429-59066311-bb4a-45ee-9feb-b891a6b5ce29.jpg)
 
+- ### Confirmation Page
+> On the confirmation page, customer will see the confirmation message and order details including confirmation number and shipping address.
+![Confirmation](https://user-images.githubusercontent.com/91036770/176063824-644eb9ff-2fb7-45a6-ba76-96d869db1727.jpg)
 
 # Wearables E-Commerce Project
+
 
 You will make use of _everything_ that you have learned thus far in the bootcamp to build an e-commerce app that will showcase all of the provided _wearables_ items.
 
