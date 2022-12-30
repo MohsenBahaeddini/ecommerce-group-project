@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "17.7.2"
+  },
   "dependencies": {
     "dotenv": "^16.0.1",
     "mongodb": "^4.6.0",
