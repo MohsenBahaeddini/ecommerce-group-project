@@ -15,7 +15,7 @@ const NavBar = () => {
       </StyledLink>
       <Container>
         <StyledNavLink to="/signin" activeClassName={"active"}>
-          LOG IN
+          LOG OUT
         </StyledNavLink>
         <StyledNavLink to="/cart" activeClassName={"active"}>
           CART ({cart.length})

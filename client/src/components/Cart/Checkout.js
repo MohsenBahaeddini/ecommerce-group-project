@@ -45,7 +45,9 @@ const Checkout = ({ cartItems }) => {
         .then((res) => res.json())
         .then((response) => {
           if (response.status === 200) {
-            localStorage.setItem("_id", JSON.stringify(response.message));
+            console.log(JSON.stringify(response.message._id));
+            localStorage.setItem("_id", JSON.stringify(response.message._id));
+
             setCart([]);
             history.push("/confirmed");
           }
